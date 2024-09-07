@@ -6,6 +6,7 @@
 2. [Net-Manager](https://github.com/maksakovaa/NetManager) - Многопоточный сервер, использующий протокол TCP/IP, каждый клиент обрабатывается в отдельном потоке. Сервер можно остановить, запустить, просмотреть подключенных клиентов.
 3. [Vulkan-triangle](https://github.com/maksakovaa/vulkan-triangle) - По гайду работаю с Vulkan API (рендеринг)
 4. [Patterns](https://github.com/maksakovaa/Patterns) - Примеры паттернов программирования на языке C++
+5. [Leetcode](https://github.com/maksakovaa/Leetcode/tree/main) - Решения задачек на Leetcode
 <!---
 maksakovaa/maksakovaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
